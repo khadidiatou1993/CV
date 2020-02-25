@@ -1,0 +1,31 @@
+/* index.html */
+
+h2
+{
+    color: blue;
+
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
+em
+{
+    color: red;
+    font-size: large;
+}
+
+a
+{
+    color: grey;
+}
+
+.metier
+{
+    color: green;
+    font-size: 17px;
+}
+
+#maphoto
+{
+    
+}
+/* index.html */
